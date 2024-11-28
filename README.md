@@ -1,1 +1,1 @@
-# openwrt-ubuntu2204-
+# openwrt-ubuntu2204
